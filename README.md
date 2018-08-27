@@ -9,7 +9,8 @@ From <https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp>
 dotnet new 
 https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-new?tabs=netcore21 
  
-- dotnet  -au none --no-https -n name - code .
+- dotnet  -au none --no-https -n name 
+- code .
 
 dotnet new sln   
 From <https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-sln>  
