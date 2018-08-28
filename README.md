@@ -60,9 +60,9 @@ Project `City.WebApi\City.WebApi.csproj` added to the solution.
 
 **code .**
 
-Commando | 
+Commando | Resultado
 ------------ | -------------
-dotnet new sln | Creamos solucion (esto sirve solo para VisualStudio, cuando queremos abrir la solucion y levantar los proyectos asociados)
+dotnet new sln | Creamos solucion (solo útil para VisualStudio, cuando queremos abrir la solución y levantar los proyectos asociados)
 dotnet new webapi -au none --no-https -n City.WebApi | crear un nuevo Proyecto del template WebApi (.csproj)
 
 
