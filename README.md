@@ -6,7 +6,7 @@
 * [.NET Core 2.1 downloads](https://code.visualstudio.com/Download)
 
 
-## Commandos para creacion de proyecto WebApi
+## Commandos para creacion de proyecto WebApi - (Cuando usamos Visual Code)
 
 C:\
 λ cd Temp\
@@ -64,6 +64,10 @@ Commando | Resultado
 ------------ | -------------
 dotnet new sln | Creamos solucion (solo útil para VisualStudio, cuando queremos abrir la solución y levantar los proyectos asociados)
 dotnet new webapi -au none --no-https -n City.WebApi | crear un nuevo Proyecto del template WebApi (.csproj)
+code . | levana ua=na nueva ventana del Visual Code, con el contendio de la carpeta en que nos encontramos
+
+
+## Creacion del proyecto en Visual Studio 2017
 
 
 **(Work in progress)**
