@@ -106,7 +106,28 @@ Al ingresar si no esta existe la configuracion de ejeccución, nos pregunta para
 El launch.json que vimos en clase.
 ```
 
+#### Ejecución en modo watch (a nivel de la carpeta del proyecto)
+
+Podemos ejecutar el servicio en modo watch, esto nos permite realizar cambios sin tener que detener la ejecución.
+
+```
+dotnet watch run 
+```
+https://docs.microsoft.com/en-us/aspnet/core/tutorials/dotnet-watch?view=aspnetcore-2.1
+
+
 **(Work in progress)**
+
+[Route("url")] o [HttpGet("url")]
+
+
+[ResponseType(typeof(ClassName))]
+
+[Model Binding](https://docs.microsoft.com/en-us/aspnet/core/mvc/models/model-binding?view=aspnetcore-2.1)
+
+
+[FromBody], [FromHeader], [FromQuery]
+
 
 To test do the following: npm run test or F5 in VS Code with the "Launch Tests" debug configuration.   
 From <https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp>  
