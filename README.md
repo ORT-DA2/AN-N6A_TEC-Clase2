@@ -9,13 +9,13 @@
 ```
 Conviene utilizar el Menu de extensiones dentro del Visual Code
 ```
-![Menu](/images/vc_menu.jpg)
+![Menu](/images/vc_menu.png)
 * OmniSharp
 
 	Escribimos C# en la barra de busqueda, es el primero en la lista.
 	[+ Info](https://github.com/OmniSharp/omnisharp-vscode/blob/master/debugger.md)
 
-	![OmniSharp](/images/omni_sharp.jpg)
+	![OmniSharp](/images/omni_sharp.png)
 
 * C# Extensions
 
