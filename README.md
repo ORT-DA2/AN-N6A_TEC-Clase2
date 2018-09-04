@@ -1,3 +1,4 @@
+#---
 # AN-N6A_TEC-Clase2
 
 ## Instalacion de ambiente
